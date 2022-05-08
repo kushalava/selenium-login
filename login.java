@@ -7,6 +7,7 @@ public class TestngAnnotation {
 	@Test(priority = 2)
 	public void testCase1() {
 		System.out.println("in test case 1");
+		System.out.println("in test case 110");
 	}
 
 	// test case 2
